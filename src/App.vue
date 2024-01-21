@@ -1,10 +1,12 @@
 <template>
-  <UserInput/>
+  <!--  <UserInput/>-->
+  <AttributeBindings></AttributeBindings>
+
 </template>
 
 <script setup>
-import Test from "./components/Test.vue";
-import UserInput from "./example1/UserInput.vue";
+import UserInput from "./exercise/example1/UserInput.vue";
+import AttributeBindings from "./exercise/exercise2/AttributeBindings.vue";
 
 
 </script>
