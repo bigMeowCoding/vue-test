@@ -1,16 +1,12 @@
 <template>
-  <Test />
+  <UserInput/>
 </template>
 
-<script lang="ts">
-import { defineComponent } from "vue";
+<script setup>
 import Test from "./components/Test.vue";
-export default defineComponent({
-  name: "App",
-  components: {
-    Test,
-  },
-});
+import UserInput from "./example1/UserInput.vue";
+
+
 </script>
 
 <style>

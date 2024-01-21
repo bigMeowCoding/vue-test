@@ -20,7 +20,7 @@
   <p>See <code>README.md</code> for more information.</p>
 
   <p>
-    <a href="https://vitejs.dev/guide/features.html" target="_blank">
+{}    <a href="https://vitejs.dev/guide/features.html" target="_blank">
       Vite Docs
     </a>
     |
