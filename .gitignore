@@ -5,3 +5,4 @@ dist-ssr
 *.local
 /.idea
 pnpm-lock.yaml
+./components.d.ts
